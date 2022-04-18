@@ -14,7 +14,7 @@ Texas from the 2021 Outage?", Working Paper
 This repository contains the code and data associated with the above working paper.
 
 ## Features
-- Overall, this repository contains three parts: 
+- This repository contains four parts: 
 	1) Processed public data during the 2021 Texas Power Outage
 	2) Estimated load profile and demand sector share data 
 	3) Synethetic network that resembles the ERCOT grid
